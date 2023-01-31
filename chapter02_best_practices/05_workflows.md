@@ -73,7 +73,8 @@ Here are a few links to various IDEs for Python:
 * Spyder at https://github.com/spyder-ide/spyder
 * PyDev at http://pydev.org
 * PyCharm at http://www.jetbrains.com/pycharm/
-* PyTools for Microsoft Visual Studio at https://microsoft.github.io/PTVS/
+* Visual Studio Python IDE - Python Development Tools for Windows at 
+https://visualstudio.microsoft.com/vs/features/python/
 
 ## See also
 
